@@ -12,9 +12,11 @@ I am Haiqing Zhu, a second year PhD student in computer science of the [Australi
 
 Publications
 ======
-[Stability and Efficiency of Personalised Cultural Markets](https://arxiv.org/abs/2302.06226), In Proceedings of the ACM Web Conference 2023 (TheWebConf '23). 
+[Stability and Efficiency of Personalised Cultural Markets](https://arxiv.org/abs/2302.06226)  
+In Proceedings of the ACM Web Conference 2023 (TheWebConf '23)  
 **Haiqing Zhu**, Yun Kuen Cheung, and Lexing Xie.  
 
-[Online Learning in Betting Markets: Profit versus Prediction](https://arxiv.org/abs/2406.04062) In International Conference on Machine Learning 2024 (ICML'24).
+[Online Learning in Betting Markets: Profit versus Prediction](https://arxiv.org/abs/2406.04062)  
+In International Conference on Machine Learning 2024 (ICML'24)  
 **Haiqing Zhu**, Alexander Soen, Yun Kuen Cheung, and Lexing Xie. 
 
