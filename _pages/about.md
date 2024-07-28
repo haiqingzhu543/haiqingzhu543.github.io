@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Haiqing Zhu, a second year PhD student in computer science of the [Australian National University](https://www.anu.edu.au/) (ANU), supervised by [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/) and [Dr. Yun Kuen Cheung](https://comp-math-econ.academy/index_.html#). My research interest lies in the field of theoretical computer science, specifically in the area of algorithmic game theory and optimisation.  
+I am Haiqing Zhu, a second year PhD student in computer science of the [Australian National University (ANU)](https://www.anu.edu.au/), supervised by [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/) and [Dr. Yun Kuen Cheung](https://comp-math-econ.academy/index_.html#). My research interest lies in the field of theoretical computer science, specifically in the area of algorithmic game theory and optimisation.  
 
 I obtained the degree of [Bachelor of Philosophy (Honours) - Science](https://programsandcourses.anu.edu.au/program/aphsc) from the ANU in 2023, where I majored in math.
 
