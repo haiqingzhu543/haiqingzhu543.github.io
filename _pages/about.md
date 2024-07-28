@@ -9,7 +9,7 @@ redirect_from:
 
 I am Haiqing Zhu, a second year PhD student in computer science of the [Australian National University](https://www.anu.edu.au/), supervised by [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/) and [Dr. Yun Kuen Cheung](https://comp-math-econ.academy/index_.html#). My research interest lies in the field of theoretical computer science, specifically in the area of algorithmic game theory and optimisation.  
 
-(Temporary) I will be joining the Max Planck Institute for Intelligent Systems for internship from September to December. I am hosted by [Dr.Celestine Mendler-Dünner](https://celestine.ai/).
+(Temporary) I will be joining the Max Planck Institute for Intelligent Systems for internship from September to December. I am hosted by [Dr. Celestine Mendler-Dünner](https://celestine.ai/).
 
 
 Publications
