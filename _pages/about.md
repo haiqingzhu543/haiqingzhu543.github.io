@@ -13,7 +13,7 @@ I obtained the degree of [Bachelor of Philosophy (Honours) - Science](https://pr
 
 News
 ------
-**2024-7-29** I will be joining the Max Planck Institute for Intelligent Systems for internship from September to December. I am hosted by [Dr. Celestine Mendler-Dünner](https://celestine.ai/).
+**(2024-7-29)** I will be joining the Max Planck Institute for Intelligent Systems for internship from September to December. I am hosted by [Dr. Celestine Mendler-Dünner](https://celestine.ai/).
 
 
 Publications
