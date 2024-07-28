@@ -11,18 +11,13 @@ I am Haiqing Zhu, a second year PhD student in computer science of the [Australi
 
 I obtained the degree of [Bachelor of Philosophy (Honours) - Science](https://programsandcourses.anu.edu.au/program/aphsc) from the ANU in 2023, where I was majored in math.
 
-Contact
-======
-Email: haiqing.zhu AT anu DOT edu DOT au
-Address: Hanna Neumann Building, ANU, Acton
-
 News
-======
+------
 **2024-7-29** I will be joining the Max Planck Institute for Intelligent Systems for internship from September to December. I am hosted by [Dr. Celestine Mendler-Dünner](https://celestine.ai/).
 
 
 Publications
-======
+------
 [Stability and Efficiency of Personalised Cultural Markets](https://arxiv.org/abs/2302.06226)  
 In Proceedings of the ACM Web Conference 2023 (TheWebConf '23)  
 **Haiqing Zhu**, Yun Kuen Cheung, and Lexing Xie.  
@@ -32,7 +27,7 @@ In International Conference on Machine Learning 2024 (ICML'24)
 **Haiqing Zhu**, Alexander Soen, Yun Kuen Cheung, and Lexing Xie. 
 
 Teaching Assistant/Tutoring Experiences
-======
+------
 [Computational Methods for Network Science (COMP4880/8880 ANU)](https://programsandcourses.anu.edu.au/course/comp4880), 2024S1  
 
 [Statistical Machine Learning (COMP4670/8670 ANU)](https://programsandcourses.anu.edu.au/2022/course/comp4670), 2023S1 and 2022S1  
@@ -42,3 +37,7 @@ Teaching Assistant/Tutoring Experiences
 [Algorithms (COMP3600/6466 ANU)](https://programsandcourses.anu.edu.au/2024/course/comp3600), 2022S2
 
 [Introduction to Machine Learning (COMP3670/6670 ANU)](https://programsandcourses.anu.edu.au/2024/course/comp3670), 2022S2
+
+Contact
+------
+**Email:** haiqing.zhu at anu.edu.au  
