@@ -21,8 +21,8 @@ repository               : "haiqingzhu543/haiqingzhu543.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #
-  name             : Haiqing Zhu
+  avatar           : "images/pic hqz.jpg"
+  name             : "Haiqing Zhu"
   pronouns         : # example: "she/her"  
   bio              : #
   location         : "Canberra, ACT, Australia"
