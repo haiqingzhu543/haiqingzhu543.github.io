@@ -29,7 +29,7 @@ In International Conference on Machine Learning 2024 (ICML'24)
 
 Teaching Assistant/Tutoring Experiences
 ------
-[Computational Methods for Network Science (COMP4880/8880 ANU)](https://programsandcourses.anu.edu.au/course/comp4880), 2024S1  
+[Computational Methods for Network Science (COMP4880/8880 ANU)](https://programsandcourses.anu.edu.au/course/comp4880), 2024S1 and 2025S1
 
 [Statistical Machine Learning (COMP4670/8670 ANU)](https://programsandcourses.anu.edu.au/2022/course/comp4670), 2023S1 and 2022S1  
 
@@ -37,7 +37,7 @@ Teaching Assistant/Tutoring Experiences
 
 [Algorithms (COMP3600/6466 ANU)](https://programsandcourses.anu.edu.au/2024/course/comp3600), 2022S2
 
-[Introduction to Machine Learning (COMP3670/6670 ANU)](https://programsandcourses.anu.edu.au/2024/course/comp3670), 2022S2
+[Introduction to Machine Learning (COMP3670/6670 ANU)](https://programsandcourses.anu.edu.au/2024/course/comp3670), 2022S2 and 2025S2
 
 Contact
 ------
