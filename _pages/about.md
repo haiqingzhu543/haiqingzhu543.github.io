@@ -13,8 +13,8 @@ I obtained the degree of [Bachelor of Philosophy (Honours) - Science](https://pr
 
 News
 ------
-**(2025-9-18)** My work during the internship has beend accepted by NeurIPS 2025.
-**(2025-9-05)** Two preprints are now on arxiv.
+**(2025-9-18)** My work during the internship has beend accepted by NeurIPS 2025.  
+**(2025-9-05)** Two preprints are now on arxiv.  
 **(2025-8-12)** I will be joining [Jane Street (Hong Kong)](https://www.janestreet.com/) as a quantitative trader intern.  
 **(2024-7-29)** I will be joining the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) for an internship from September to December. I am hosted by [Dr. Celestine Mendler-Dünner](https://celestine.ai/).
 
