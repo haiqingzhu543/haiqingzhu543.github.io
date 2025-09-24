@@ -38,7 +38,7 @@ Preprints
 [Dynamics in Two-Sided Attention Markets: Objective, Optimization, and Control](https://arxiv.org/abs/2509.01970)  
 **Haiqing Zhu**, Yun Kuen Cheung, and Lexing Xie.  
 
-[Entry Barriers in Content Markets](https://arxiv.org/abs/2509.01953)
+[Entry Barriers in Content Markets](https://arxiv.org/abs/2509.01953)  
 **Haiqing Zhu**, Lexing Xie, and Yun Kuen Cheung.
 
 Teaching Assistant/Tutoring Experiences
