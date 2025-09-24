@@ -29,7 +29,7 @@ In International Conference on Machine Learning 2024 (ICML'24)
 In Proceedings of the ACM Web Conference 2023 (TheWebConf'23)  
 **Haiqing Zhu**, Yun Kuen Cheung, and Lexing Xie.  
 
-[Collective Reasoning in Performative Prediction](https://neurips.cc/virtual/2025/poster/119768)
+[Collective Reasoning in Performative Prediction](https://neurips.cc/virtual/2025/poster/119768)  
 In The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25)  
 **Haiqing Zhu**, Tijana Zrnic, Celestine Mendler-Dünner.  
 
