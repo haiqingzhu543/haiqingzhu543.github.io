@@ -13,6 +13,8 @@ I obtained the degree of [Bachelor of Philosophy (Honours) - Science](https://pr
 
 News
 ------
+**(2025-9-18)** My work during the internship has beend accepted by NeurIPS 2025.
+**(2025-9-05)** Two preprints are now on arxiv.
 **(2025-8-12)** I will be joining [Jane Street (Hong Kong)](https://www.janestreet.com/) as a quantitative trader intern.  
 **(2024-7-29)** I will be joining the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) for an internship from September to December. I am hosted by [Dr. Celestine Mendler-Dünner](https://celestine.ai/).
 
@@ -24,8 +26,20 @@ In International Conference on Machine Learning 2024 (ICML'24)
 **Haiqing Zhu**, Alexander Soen, Yun Kuen Cheung, and Lexing Xie.   
 
 [Stability and Efficiency of Personalised Cultural Markets](https://arxiv.org/abs/2302.06226)  
-In Proceedings of the ACM Web Conference 2023 (TheWebConf '23)  
+In Proceedings of the ACM Web Conference 2023 (TheWebConf'23)  
 **Haiqing Zhu**, Yun Kuen Cheung, and Lexing Xie.  
+
+[Collective Reasoning in Performative Prediction](https://neurips.cc/virtual/2025/poster/119768)
+In The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25)  
+**Haiqing Zhu**, Tijana Zrnic, Celestine Mendler-Dünner.  
+
+Preprints
+------
+[Dynamics in Two-Sided Attention Markets: Objective, Optimization, and Control](https://arxiv.org/abs/2509.01970)  
+**Haiqing Zhu**, Yun Kuen Cheung, and Lexing Xie.  
+
+[Entry Barriers in Content Markets](https://arxiv.org/abs/2509.01953)
+**Haiqing Zhu**, Lexing Xie, and Yun Kuen Cheung.
 
 Teaching Assistant/Tutoring Experiences
 ------
